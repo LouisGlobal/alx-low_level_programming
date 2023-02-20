@@ -1,0 +1,1 @@
+A project done during **Full Stack Software Engineering Studies** at _**ALX SCHOOL**_. This particular project is to learn about *arithmetic operators, relational operators, boolean operators, etc, in* **C language**
